@@ -1,4 +1,4 @@
-# 🌟 Tackle Redists
+# 🌟 Tackle Box
 
 A repository to store redistributables and dependencies for various applications.  
 All files here are under their own respective licenses, and this repository does not claim credit or ownership of said files.
